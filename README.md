@@ -1,5 +1,5 @@
 # WindowsSetup
---
+-
 Комманды Для Работы Кода
 ```bash
 pip install auto-py-to-exe PySide6
@@ -16,5 +16,5 @@ label.pack()
 root.mainloop()
 ```
 ## Вы Можете Изменять Код!! Под Себе
---
+-
 У Вас Получится Exe
